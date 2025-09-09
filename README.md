@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou a Ale Campos!  
+# 👋 Olá, eu sou a Alexsandra Campos!  
 
 💡 Instrutora | 💻 Desenvolvedora de Sistemas | 📊 Entusiasta de Ciência de Dados  
 
